@@ -20,3 +20,7 @@ Quando você clica na maçã, o ciclo recomeça do zero.
 ferramentas utilizadas 
 p5.js
 chatgpt
+
+prompt usado
+
+crie uma arvore que quando crescer aparecera uma maça e quando click na maça causara um loop
